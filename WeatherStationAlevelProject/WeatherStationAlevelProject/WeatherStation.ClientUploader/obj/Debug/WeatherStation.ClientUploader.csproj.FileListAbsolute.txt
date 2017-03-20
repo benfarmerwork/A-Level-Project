@@ -1,0 +1,6 @@
+C:\Users\ben\Source\Repos\A-Level-Project\WeatherStationAlevelProject\WeatherStation.ClientUploader\bin\Debug\WeatherStation.ClientUploader.exe.config
+C:\Users\ben\Source\Repos\A-Level-Project\WeatherStationAlevelProject\WeatherStation.ClientUploader\bin\Debug\WeatherStation.ClientUploader.exe
+C:\Users\ben\Source\Repos\A-Level-Project\WeatherStationAlevelProject\WeatherStation.ClientUploader\bin\Debug\WeatherStation.ClientUploader.pdb
+C:\Users\ben\Source\Repos\A-Level-Project\WeatherStationAlevelProject\WeatherStation.ClientUploader\obj\Debug\WeatherStation.ClientUploader.csprojResolveAssemblyReference.cache
+C:\Users\ben\Source\Repos\A-Level-Project\WeatherStationAlevelProject\WeatherStation.ClientUploader\obj\Debug\WeatherStation.ClientUploader.exe
+C:\Users\ben\Source\Repos\A-Level-Project\WeatherStationAlevelProject\WeatherStation.ClientUploader\obj\Debug\WeatherStation.ClientUploader.pdb
